@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayeem Bhuiyan</h1>
-<h3 align="center">I'm a passionate full stack developer with 3 years of experience specializing in .NET technologies. I enjoy building scalable, high-performance web applications and working across the full stack, from backend APIs to responsive frontends.</h3>
+<h3 align="center">I'm a passionate full stack developer with 3 years of experience specializing in .NET technologies.</h3>
 
 - 🔭 I’m currently working on **School based Erp Project**
 
