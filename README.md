@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Blood Bank Project**
 
-- 💬 Ask me about **.Net core,React,Jquery,Javascript**
+- 💬 Ask me about **.Net core,React,Javascript,Jquery**
 
 - 📫 How to reach me **nayeembhuiyan30@gmail.com**
  
