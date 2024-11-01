@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayeem Bhuiyan</h1>
-<h3 align="center">I'm a full stack developer with 3 years of experience specializing in .NET technologies.</h3>
+<h3 align="center">Full Stack Developer | .NET Specialist with 3 Years of Experience in Building Scalable Web Applications</h3>
 
 - 🔭 I’m currently working on **Microfinance based ERP Product solution** at <a href="https://datasoft-bd.com/">DataSoft Systems Bangladesh Limited</a>
 
