@@ -72,16 +72,18 @@
 
 ### Backend  
   <div align="center">  
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C-Sharp">
   <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/csharp-original.svg" alt="C#" height="50" />
   </a>  
-  <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
+  <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank" title=".NET">
   <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/dot-net-original-wordmark.svg" alt=".NET" height="50" />
   </a>  
-  <a href="https://dotnet.microsoft.com/download" target="_blank">
+  <a href="https://dotnet.microsoft.com/download" target="_blank" title=".NET Core">
   <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/dotnetcore.svg" alt=".Net Core" height="50" />
   </a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/git-scm-icon.svg" alt="Git" height="50" /></a>  
+  <a href="https://github.com/" target="_blank" title="Github">
+  <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/git-scm-icon.svg" alt="Git" height="50" />
+  </a>  
   </div>
 </td>
 
@@ -89,9 +91,10 @@
 
 ### Database  
   <div align="center">  
-  <a href="https://learn.microsoft.com/en-gb/sql/relational-databases/databases/create-a-database?view=sql-server-ver16" target="_blank">
+  <a href="https://learn.microsoft.com/en-gb/sql/relational-databases/databases/create-a-database?view=sql-server-ver16" target="_blank" title="SQL Server">
    <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/Images/sql-server.svg" alt="MSSQL" 
-  height="50" /></a>  
+  height="50" />
+  </a>  
 
 </td>
 
