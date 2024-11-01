@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nayeem Bhuiyan</h1>
 <h3 align="center">Full Stack Developer | .NET Specialist with 3 Years of Experience in Building Scalable Web Applications</h3>
 
-- 🔭 I’m currently working on **Microfinance based ERP Product solution** at <a href="https://datasoft-bd.com/">DataSoft Systems Bangladesh Limited</a>
+- 🔭 I’m currently working on **Microfinance based ERP product solution** at <a href="https://datasoft-bd.com/">DataSoft Systems Bangladesh Limited</a>
 
 - 🌱 I’m currently learning **Reactjs,Nextjs,Nodejs**
 
@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **.Net core,React,Javascript,Jquery**
 
-- 📫 How to reach me **nayeembhuiyan30@gmail.com**
+- 📫 How to reach me **nayeembhuiyan30@gmail.com** **+8801755391672**
+
  
   ## Connect with me  
 <div align="center">
