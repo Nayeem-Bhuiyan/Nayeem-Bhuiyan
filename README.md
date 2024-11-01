@@ -32,7 +32,7 @@
 
 <br/>  
 
-## My Skill Set  
+## My Technical Skills  
 <table>
   <tr>
   <td valign="top" width="33%">
