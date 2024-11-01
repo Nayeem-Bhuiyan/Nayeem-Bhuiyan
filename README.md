@@ -68,7 +68,7 @@
 ### Database  
   <div align="center">  
   <a href="#" target="_blank">
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" 
+   <img style="margin: 10px" src="#" alt="C#" 
   height="50" /></a>  
 
 </td>
