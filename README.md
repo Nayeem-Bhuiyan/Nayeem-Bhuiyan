@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **.Net core,React,Javascript,Jquery**
 
-- 📫 How to reach me **nayeembhuiyan30@gmail.com** **+8801755391672**
+- 📫 How to reach me **nayeembhuiyan30@gmail.com** , **+8801755391672**
 
  
   ## Connect with me  
