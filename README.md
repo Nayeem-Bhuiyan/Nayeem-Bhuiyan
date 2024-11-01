@@ -13,19 +13,19 @@
  
   ## Connect with me  
 <div align="center">
-<a href="https://github.com/Nayeem-Bhuiyan" target="_blank" title="github">
+<a href="https://github.com/Nayeem-Bhuiyan" target="_blank" title="Github">
 <img src=https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/github.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="#" target="_blank">
+<a href="#" target="_blank" title="Twitter">
 <img src=https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/twitter.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/nayeem-bhuiyan-1988ab19a/" target="_blank">
+<a href="https://www.linkedin.com/in/nayeem-bhuiyan-1988ab19a/" target="_blank" title="Linkedin">
 <img src=https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/linkedin.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/nayeempjnu?mibextid=ZbWKwL" target="_blank">
+<a href="https://www.facebook.com/nayeempjnu?mibextid=ZbWKwL" target="_blank" title="Facebook">
 <img src=https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/facebook.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/nayeem729/" target="_blank">
+<a href="https://www.instagram.com/nayeem729/" target="_blank" title="Instragram">
 <img src=https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/instagram.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -39,16 +39,33 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/reactjs.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/bootstrap.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/css3.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/html5.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/javascript.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/typescript.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/redux.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/jquery.svg" alt="jQuery" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/angular.svg" alt="Angular" height="50" /></a> 
+<a href="https://reactjs.org/" target="_blank" title="Reactjs">
+<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/reactjs.svg" alt="React" height="50" />
+</a>  
+<a href="https://angular.io/" target="_blank" title="Angular">
+<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/angular.svg" alt="Angular" height="50" />
+</a> 
+<a href="https://redux.js.org/" target="_blank" title="Redux">
+<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/redux.svg" alt="Redux" height="50" />
+</a>
+<a href="https://www.javascript.com/" target="_blank" title="Javascript">
+<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/javascript.svg" alt="JavaScript" height="50" />
+</a> 
+<a href="https://jquery.com/" target="_blank" title="Jquery">
+<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/jquery.svg" alt="jQuery" height="50" />
+</a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank" title="Bootstrap">
+<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/bootstrap.svg" alt="Bootstrap" height="50" />
+</a>  
+<a href="https://www.tailwindcss.com/" target="_blank" title="Tailwind">
+<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+</a>  
+<a href="https://www.w3schools.com/css/" target="_blank" title="CSS">
+<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/css3.svg" alt="CSS3" height="50" />
+</a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" title="HTML5">
+<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/html5.svg" alt="HTML5" height="50" />
+</a>  
 </div>
 </td>
 <td valign="top" width="33%">
@@ -57,7 +74,7 @@
   <div align="center">  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
   <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-  <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+  <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.svg" alt=".Net Core" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
   </div>
 </td>
