@@ -67,16 +67,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" title="HTML5">
 <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/html5.svg" alt="HTML5" height="50" />
 </a>  
-
-
-
-
-<a href="https://angular.dev/overview" target="_blank" title="Angular">
-<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/angular.svg" alt="HTML5" height="50" />
-</a> 
-
-
-
 </div>
 </td>
 <td valign="top" width="33%">
@@ -95,6 +85,9 @@
   <a href="https://github.com/" target="_blank" title="Github">
   <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/git-scm-icon.svg" alt="Git" height="50" />
   </a>  
+<a href="https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app?tabs=netcore-cli" target="_blank" title="Entity Framework">
+  <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/entity_framework.svg" alt="entity_framework" height="50" />
+  </a>  
   </div>
 </td>
 
@@ -104,6 +97,10 @@
   <div align="center">  
   <a href="https://learn.microsoft.com/en-gb/sql/relational-databases/databases/create-a-database?view=sql-server-ver16" target="_blank" title="SQL Server">
    <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/Images/sql-server.svg" alt="MSSQL" 
+  height="50" />
+
+  <a href="https://www.mysql.com/" target="_blank" title="My SQL">
+   <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/Images/mysql.svg" alt="mysql" 
   height="50" />
   </a>  
 
