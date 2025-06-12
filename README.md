@@ -36,7 +36,7 @@
 ## My Technical Skills  
 <table>
   <tr>
-  <td valign="top" width="33%">
+  <td valign="top" width="35%">
 
 ### Frontend  
 <div align="center">  
@@ -72,7 +72,7 @@
 </a>  
 </div>
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Backend  
   <div align="center">  
@@ -94,7 +94,7 @@
   </div>
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="20%">
 
 ### Database  
   <div align="center">  
@@ -108,7 +108,7 @@
   </a>  
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="20%">
 
 ### Tools
   <div align="center">  
