@@ -116,6 +116,9 @@
    <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/github-tools.svg" alt="github" 
   height="50" />
 
+  <a href="https://visualstudio.microsoft.com/" target="_blank" title="Visual-Studio">
+   <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/visual-studio.svg" alt="visual-studio" 
+  height="50" />
 </td>
  </tr>
 </table>
