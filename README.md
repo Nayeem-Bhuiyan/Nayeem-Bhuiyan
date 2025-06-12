@@ -67,6 +67,16 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank" title="HTML5">
 <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/html5.svg" alt="HTML5" height="50" />
 </a>  
+
+
+
+
+<a href="https://angular.dev/overview" target="_blank" title="Angular">
+<img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/angular.svg" alt="HTML5" height="50" />
+</a> 
+
+
+
 </div>
 </td>
 <td valign="top" width="33%">
