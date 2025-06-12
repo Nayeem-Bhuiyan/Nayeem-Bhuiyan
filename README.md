@@ -100,7 +100,7 @@
   height="50" />
 
   <a href="https://www.mysql.com/" target="_blank" title="My SQL">
-   <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/Images/mysql.svg" alt="mysql" 
+   <img style="margin: 10px" src="https://github.com/Nayeem-Bhuiyan/Nayeem-Bhuiyan/blob/master/Asset/SVG/mysql.svg" alt="mysql" 
   height="50" />
   </a>  
 
